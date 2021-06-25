@@ -13,7 +13,7 @@ This is one of the group projects that I was participating in my studies.
 I was responsible for doing visualisations. 
 	
 ## Technologies
-This project was about data analysis . There are key steps in a process of data analysis.<br />
+This project was about data analysis. Data analysis is a process made of following steps: <br />
 <br />
 **1) Data extraction and some pre-processing of data.**<br />
 We used Python to do that. Key libraries in Python to do the data scraping were: Requests, BeautifulSoup, Pandas, Numpy.<br />
