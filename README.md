@@ -1,5 +1,8 @@
 # Football-Analysis-Dashboard
 
+![alt_text](images/Screen power bi.jpeg)
+
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
