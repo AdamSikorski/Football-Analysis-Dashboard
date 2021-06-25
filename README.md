@@ -11,11 +11,11 @@ I was responsible for doing visualisations.
 	
 ## Technologies
 This project was about data analysis . There are key steps in a process of data analysis.
-1) Data extraction and some pre-processing of data.
-We used Python to do that. Key libraries in Python to do the data scraping were: Requests, BeautifulSoup, Pandas, Numpy.
-2) Data storage
+**1) Data extraction and some pre-processing of data.**
+We used Python to do that. Key libraries in Python to do the data scraping were: Requests, BeautifulSoup, Pandas, Numpy.<br />
+**2) Data storage**<br />
 Data and Python cript were stored in Azure.
-3) Data visualization and some additional processing of data.
+**3) Data visualization and some additional processing of data.**<br />
 To visualize data I used PowerBI.
 	
 ## Setup
