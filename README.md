@@ -2,11 +2,6 @@
 
 ![Screen power bi](https://user-images.githubusercontent.com/46708366/123442949-b668bd80-d5d5-11eb-93e7-7214b14bdb4b.jpg)
 
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
-
 ## General info
 This is one of the group projects that I was participating in my studies. 
 I was responsible for doing visualisations. 
