@@ -1,4 +1,4 @@
-# Football-Analysis-Dashboard
+# Football Analysis Dashboard
 
 ![Screen power bi](https://user-images.githubusercontent.com/46708366/123442949-b668bd80-d5d5-11eb-93e7-7214b14bdb4b.jpg)
 
