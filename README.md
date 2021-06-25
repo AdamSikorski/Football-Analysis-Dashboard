@@ -19,7 +19,7 @@ Data and Python cript were stored in Azure.<br />
 To visualize data I used PowerBI.
 	
 ## Setup
-If you just want to look how the project looks like - please click on **Football Analysis Dashboard in PDF.pdf** file
+If you just want to look how the project looks like - please click on **Football Analysis Dashboard in PDF.pdf** file. <br />
 If you want to be able to check project, edit visualizations, and to be able to dynamically check visualizations - please download **Football Analysis Power BI Project.pbix**
 file. All you need to do is to have a Power Bi Desktop.
 
