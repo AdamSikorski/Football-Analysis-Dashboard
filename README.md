@@ -1,6 +1,6 @@
 # Football-Analysis-Dashboard
 
-![alt_text](images/Screen power bi.jpeg)
+![Screen power bi](https://user-images.githubusercontent.com/46708366/123442795-8b7e6980-d5d5-11eb-9085-4720d5e3a639.jpg)
 
 
 ## Table of contents
