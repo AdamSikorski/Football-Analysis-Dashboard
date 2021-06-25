@@ -18,7 +18,7 @@ This project was about data analysis. Data analysis is a process made of followi
 We used Python to do that. Key libraries in Python to do the data scraping were: Requests, BeautifulSoup, Pandas, Numpy.<br />
 <br />
 **2) Data storage**<br />
-Data and python script were stored in Azure.<br />
+Data and Python script were stored in Azure.<br />
 <br />
 **3) Data visualization and some additional processing of data.**<br />
 To visualize data I used PowerBI.
